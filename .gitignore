@@ -1,6 +1,7 @@
 .idea/
 *.xml
 *.html
+res/
 test/
 HandWritingBCI/
 
